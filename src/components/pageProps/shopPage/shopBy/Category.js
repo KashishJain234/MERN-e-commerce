@@ -13,7 +13,7 @@ const Category = () => {
     },
     {
       _id: 991,
-      title: "Gudgets",
+      title: "Gadgets",
     },
     {
       _id: 992,
